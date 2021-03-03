@@ -31,7 +31,7 @@ const Mapa1: React.FC<IProps> = (props) => {
       case "Isla de la Juventud":
         return "#6e0d69";
       case "Camagüey":
-        return "#9b9899";
+        return "#865062";
       case "Ciego de Ávila":
         return "#a55c28";
       case "Villa Clara":
